@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Cigna Healthcare",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Built healthcare dashboards with Angular and TypeScript, and improved real-time data processing using Apache Kafka", 
+      "Reduced error rates by 25% in Java applications and enhanced reliability by 25% with AWS and CI/CD automation"
+    ],
+    "imageSrc": "history/cignahealthcare.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Tech Mahindra Ltd",
+    "startDate": "Dec, 2019",
+    "endDate": "Jul, 2022",
+    "experiences": [
+      "Developed a microservices-based app with Java, Spring Boot, and ReactJS, and cut deployment time by 60% using Docker", 
+      "Created RESTful APIs and improved database performance and monitoring, reducing API issues by 40%"
+    ],
+    "imageSrc": "history/techmahindra.png"
+  },
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Wipro",
+    "startDate": "May, 2018",
+    "endDate": "Jul, 2019",
+    "experiences": [
+      "Developed scalable microservices with React.js and Java, boosting system scalability by 30%",
+      "Integrated Spring, Apache Struts, and JMS for modularity, secure communication, and reliable message processing"
+    ],
+    "imageSrc": "history/wipro.png"
+  }
+]
