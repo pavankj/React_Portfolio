@@ -10,10 +10,10 @@ const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Pavan Kodihalli Jagadeesh</h1>
             <p className={styles.description}>
-            I am a Software Engineer with 5 years of experience in developing robust and scalable web applications using Java, Spring Boot, Angular and ReactJS. 
+            I am a Software Engineer with 3 years of experience in developing robust and scalable web applications using Java, Spring Boot and ReactJS. 
             I am actively seeking full-time opportunities as a Java Full Stack Developer. If you are looking for a dedicated professional to join your team, I'd love to connect.
             </p>
-            <a href="mailto:pavankodihallijagadeesh@gmail.com" className={styles.contactBtn}>Contact Me</a>
+            <a href="mailto:pavankj22121997@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div> 
         <img src ={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/> 
           <div className={styles.topBlur} />
