@@ -5,7 +5,7 @@
     "startDate": "Jul, 2024",
     "endDate": "Present",
     "experiences": [
-      "Built environmental dashboards with React and TypeScript, and improved real-time data processing using Apache Kafka", 
+      "Built environmental dashboards with React and JavaScript, and improved real-time data processing using Apache Kafka", 
       "Reduced error rates by 25% in Java applications and enhanced reliability by 25% with AWS and CI/CD automation"
     ],
     "imageSrc": "history/crowddoing.png"
